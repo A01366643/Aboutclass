@@ -1,3 +1,1 @@
-[{"name":"Ropa","price":14, "amount available":13},
- {"name":"Comida","price":14, "amount available":13},
- {"name":"Botella","price":14, "amount available":13}]
+[{"name":"Ropa","price":50, "amount":13},{"name":"Comida","price":75, "amount":7},{"name":"Botella","price":25, "amount":8}]
